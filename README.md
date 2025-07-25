@@ -3,6 +3,11 @@ Creating a Model to Predict the Stock Using Time Series
 
 This project predicts the next day's stock closing price using a trained **Long Short-Term Memory (LSTM)** model. It uses **historical stock data** from Yahoo Finance and offers an interactive UI built with **Streamlit**.
 
+## Live Demo
+
+Check out the deployed app: [Click Here to Open](https://stock-market-prediction-using-time-series-analysis.streamlit.app/)
+
+
 ##  Features
 
 - Input any **stock ticker** (e.g., `GOOGL`, `AAPL`, `TSLA`)  
